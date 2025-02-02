@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <string.h>
 float calclatingtax(int salary)
 {
     float tax;
