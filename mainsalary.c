@@ -8,7 +8,7 @@ float calclatingtax(int salary)
     }
     else if (salary > 10000000 && salary < 20000000)
     {
-        tax = 0.05 * salary;
+        tax = 0.0500 * salary;
     }
     else
     {
